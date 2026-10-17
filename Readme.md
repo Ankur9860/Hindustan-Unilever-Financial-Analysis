@@ -25,5 +25,16 @@ To analyse the company's financial performance, assess financial risk, and explo
 ## File
 `HUL_Financial_Analysis.xlsx` — Excel workbook containing the financial analysis and valuation models.
 
+## Project Preview
+
+### Ratio Analysis
+![Ratio Analysis](ratio-analysis.png)
+
+### DCF Valuation
+![DCF Valuation](dcf-valuation.png)
+
+### Comparable Company Valuation
+![Comps Valuation](comps-valuation.png)
+
 ## Disclaimer
 This project is for educational and portfolio demonstration purposes only. It is not investment advice.
